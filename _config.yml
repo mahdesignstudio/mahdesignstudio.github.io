@@ -1,11 +1,11 @@
 # Site settings
 author: Melissa Hernandez
-title: 
+title: Create, Live and Tech
 header-img: img/home-bg.png
 email: hdez.melissaa@gmail.com
 copyright_name: Melissa Hernandez
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Create and live the life you want to Tech
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: HdezMeli1686
 github_username:  mahdesignstudio
